@@ -27,10 +27,10 @@ body{background:#eee;padding:20px;display:flex;justify-content:center}
       <span>9:41</span>
       <span>●●●</span>
     </div>
-    <div class="chat-header">角色A</div>
+    <div class="chat-header">阿什</div>
     <div class="chat-box">
       <!-- ==========在这里改对话！========== -->
-      <div class="msg left">你今天去哪里了？</div>
+      <div class="msg left">小凡大人在吗？</div>
       <div class="msg right">刚忙完，才看到消息</div>
       <div class="msg left">什么时候有空见一面吗</div>
       <div class="msg right">等这阵子忙完吧</div>
